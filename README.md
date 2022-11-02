@@ -1,6 +1,9 @@
 # Buying-Habit
 Predicting the habits of regular customers of a site.
 
+## datasets
+The data are private and it is not possible to upload them. But the concept of the project is available inside the Juyter notebook file.
+
 ### Requirements
 Running `Buying Habit` requires:
 * Python 3.7 (tested under Python 3.10.4)
