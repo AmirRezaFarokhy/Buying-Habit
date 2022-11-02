@@ -2,7 +2,7 @@
 Predicting the habits of regular customers of a site.
 
 ### Requirements
-Running `News-analysis` requires:
+Running `Buying Habit` requires:
 * Python 3.7 (tested under Python 3.10.4)
 * pandas 1.4.2
 * numpy 1.22.3
