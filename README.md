@@ -1,5 +1,5 @@
 # Buying-Habit
-Predicting the habits of regular customers of a site.
+Predicting the habits of regular customers of a site. In this repo we use tow way for solve this problem.
 
 ## datasets
 The data are private and it is not possible to upload them. But the concept of the project is available inside the Juyter notebook file.
