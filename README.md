@@ -2,7 +2,7 @@
 Predicting the habits of regular customers of a site. In this repo we use tow way for solve this problem.
 
 ## datasets
-The data are private and it is not possible to upload them. But the concept of the project is available inside the Juyter notebook file.
+The data has a large volume and it is not possible to upload them. But the concept of the project is available inside the Juyter notebook file.
 
 ### Requirements
 Running `Buying Habit` requires:
